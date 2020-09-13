@@ -1,2 +1,1 @@
-# Test
-Pretest
+# PRETEST LOGIC ARKADEMY
